@@ -4,3 +4,4 @@ testgit merge
 
 
 ABCD
+EFGH
